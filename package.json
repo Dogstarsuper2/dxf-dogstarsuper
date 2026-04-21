@@ -18,10 +18,10 @@
   ],
   "author": "Dogstar",
   "license": "MIT",
-  "homepage": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/dxf",
+  "homepage": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/dxf"
+    "url": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/"
   },
   "bugs": {
     "url": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/issues"
