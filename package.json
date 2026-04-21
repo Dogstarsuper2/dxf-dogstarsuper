@@ -1,0 +1,53 @@
+﻿{
+  "name": "dxf-dogstar",
+  "version": "5.3.1-dogstar.0",
+  "description": "DXF parser and SVG exporter with Dogstar extensions for scale, layer filtering, fit-to-content padding, and source lineweight support.",
+  "main": "lib/index.js",
+  "bin": {
+    "dxf-to-svg": "lib/cli.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "dxf",
+    "svg",
+    "cad",
+    "parser",
+    "converter"
+  ],
+  "author": "Dogstar",
+  "license": "MIT",
+  "homepage": "https://github.com/dogstarsuper/dxf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dogstarsuper/dxf"
+  },
+  "bugs": {
+    "url": "https://github.com/dogstarsuper/dxf/issues"
+  },
+  "files": [
+    "lib",
+    "src",
+    "dist",
+    "LICENSE",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "dependencies": {
+    "commander": "^2.20.3",
+    "lodash": "^4.17.21",
+    "vecks": "^3.9.2"
+  },
+  "dogstar": {
+    "basedOn": "dxf@5.3.1",
+    "features": [
+      "svg-scale",
+      "svg-layer-filter",
+      "svg-fit-to-content-padding",
+      "svg-source-lineweight",
+      "svg-responsive-default-size"
+    ],
+    "developedWith": "Codex GPT-5.4"
+  }
+}
