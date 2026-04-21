@@ -18,17 +18,10 @@
   ],
   "author": "Dogstar",
   "license": "MIT",
-<<<<<<< HEAD
   "homepage": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/",
   "repository": {
     "type": "git",
     "url": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/"
-=======
-  "homepage": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/dxf",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/dxf"
->>>>>>> b9c5c3294bf32398373b18fc4bb00da05821e914
   },
   "bugs": {
     "url": "https://github.com/Dogstarsuper2/dxf-dogstarsuper/issues"
@@ -57,8 +50,4 @@
     ],
     "developedWith": "Codex GPT-5.4"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> b9c5c3294bf32398373b18fc4bb00da05821e914
